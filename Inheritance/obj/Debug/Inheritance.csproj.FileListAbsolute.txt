@@ -1,0 +1,7 @@
+c:\users\cassidy\documents\visual studio 2017\Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+c:\users\cassidy\documents\visual studio 2017\Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+c:\users\cassidy\documents\visual studio 2017\Projects\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+c:\users\cassidy\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+c:\users\cassidy\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+c:\users\cassidy\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+c:\users\cassidy\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
