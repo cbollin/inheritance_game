@@ -10,8 +10,8 @@ namespace Inheritance
     {
         private static void Main(string[] args)
         {
-            var player = ClassService.GetBase("Cool Barbarian Steve", BaseClass.Barbarian, true, new Stat(), WeaponClass.Club);
-            var enemy = ClassService.GetBase("Very Evil Kobold", BaseClass.Cleric, false, new Stat(), WeaponClass.Dagger);
+            var player = ClassService.GetBase("Human Barbarian", BaseClass.Barbarian, true, new Stat(), WeaponClass.Club);
+            var enemy = ClassService.GetBase("Kobold Cleric", BaseClass.Cleric, true, new Stat(), WeaponClass.Unarmed);
             var playerWeapon = WeaponService.GetWeapon("Club", WeaponClass.Club);
             var enemyWeapon = WeaponService.GetWeapon("Dagger", WeaponClass.Dagger);
 
