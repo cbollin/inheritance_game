@@ -5,3 +5,24 @@ c:\users\cassidy\documents\visual studio 2017\Projects\Inheritance\Inheritance\o
 c:\users\cassidy\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
 c:\users\cassidy\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.exe
 c:\users\cassidy\documents\visual studio 2017\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\cbollin\Desktop\Tutorials\inheritance_game\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\cbollin\Desktop\Tutorials\inheritance_game\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\cbollin\Desktop\Tutorials\inheritance_game\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\cbollin\Desktop\Tutorials\inheritance_game\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\cbollin\Desktop\Tutorials\inheritance_game\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\cbollin\Desktop\Tutorials\inheritance_game\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\cbollin\Desktop\Tutorials\inheritance_game\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\cbollin\Documents\Visual Studio 2017\Projects\inheritance_game\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\cbollin\Documents\Visual Studio 2017\Projects\inheritance_game\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\cbollin\Documents\Visual Studio 2017\Projects\inheritance_game\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\cbollin\Documents\Visual Studio 2017\Projects\inheritance_game\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\cbollin\Documents\Visual Studio 2017\Projects\inheritance_game\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\cbollin\Documents\Visual Studio 2017\Projects\inheritance_game\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\cbollin\Documents\Visual Studio 2017\Projects\inheritance_game\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\Cassidy\desktop\inheritance_game-20190314T004515Z-001\inheritance_game\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Cassidy\desktop\inheritance_game-20190314T004515Z-001\inheritance_game\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Cassidy\desktop\inheritance_game-20190314T004515Z-001\inheritance_game\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Cassidy\desktop\inheritance_game-20190314T004515Z-001\inheritance_game\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\Cassidy\desktop\inheritance_game-20190314T004515Z-001\inheritance_game\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Cassidy\desktop\inheritance_game-20190314T004515Z-001\inheritance_game\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Cassidy\desktop\inheritance_game-20190314T004515Z-001\inheritance_game\Inheritance\obj\Debug\Inheritance.pdb

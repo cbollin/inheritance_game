@@ -42,15 +42,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\FindInitiative.cs" />
-    <Compile Include="Models\Battle.cs" />
-    <Compile Include="Models\HumanRogue.cs" />
-    <Compile Include="Models\ShortSword.cs" />
-    <Compile Include="Models\Rat.cs" />
-    <Compile Include="Models\HumanFighter.cs" />
-    <Compile Include="Interfaces\Base.cs" />
+    <Compile Include="Enums\WeaponClass.cs" />
+    <Compile Include="Helper\CombatSimulator.cs" />
+    <Compile Include="Helper\DisplayAll.cs" />
+    <Compile Include="Helper\Randomizer.cs" />
+    <Compile Include="Models\Base.cs" />
+    <Compile Include="Enums\BaseClass.cs" />
+    <Compile Include="Interfaces\IWeapon.cs" />
+    <Compile Include="Models\ClassService.cs" />
+    <Compile Include="Interfaces\IBase.cs" />
+    <Compile Include="Models\PlayerCharacter.cs" />
+    <Compile Include="Models\Weapon.cs" />
+    <Compile Include="Models\WeaponService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Models\Stat.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

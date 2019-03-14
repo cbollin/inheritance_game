@@ -1,15 +1,26 @@
-﻿using Inheritance.Models;
+﻿using System;
+using Inheritance.Enums;
+using Inheritance.Helper;
+using Inheritance.Interfaces;
+using Inheritance.Models;
 
 namespace Inheritance
 {
-    internal partial class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            var humanFighter = new HumanFighter();
-            var enemyRat = new Rat();
+            var player = ClassService.GetBase("Cool Barbarian Steve", BaseClass.Barbarian, true, new Stat(), WeaponClass.Club);
+            var enemy = ClassService.GetBase("Very Evil Kobold", BaseClass.Cleric, false, new Stat(), WeaponClass.Dagger);
+            var playerWeapon = WeaponService.GetWeapon("Club", WeaponClass.Club);
+            var enemyWeapon = WeaponService.GetWeapon("Dagger", WeaponClass.Dagger);
 
-            Battle.BeginCombat(humanFighter, enemyRat);
+            Helper.Program.DisplayCharacters.DisplayCharacter(player);
+            Helper.Program.DisplayCharacters.DisplayCharacter(enemy);
+
+            var combatService = new CombatService(player, enemy, playerWeapon, enemyWeapon);
+            
+            Console.ReadLine();
         }
     }
 }
